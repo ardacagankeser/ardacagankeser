@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arda 👋</h1>
-<h3 align="center">Senior Computer Engineering Student @ Ege University</h3>
+<h3 align="center">B.Sc. in Computer Engineering, Ege University</h3>
 
 ---
 
